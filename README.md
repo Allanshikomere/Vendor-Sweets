@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flask Code Challenge - Sweets Vendors
 
 For this assessment, you'll be working with a vendors and sweets domain.
@@ -247,3 +248,6 @@ the appropriate HTTP status code:
   "error": "VendorSweet not found"
 }
 ```
+=======
+# Vendor-Sweets
+>>>>>>> fdabc044436e45e64d45aba30e38dafad019c627
